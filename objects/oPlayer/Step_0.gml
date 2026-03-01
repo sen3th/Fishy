@@ -1,7 +1,5 @@
 
-movement_speed = 1;
-gems_collected = 0;
-gems_needed = 10;
+
 x_speed = 0 
 y_speed = 0 
 
@@ -27,7 +25,7 @@ if (place_meeting(x, y, oGem)) {
     }
     gems_collected++;
     
-    if (gems_collected >= gems_needed) {
+    if (gems_collected == gems_needed) {
         room_goto_next();
     }
 }

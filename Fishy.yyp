@@ -23,6 +23,7 @@
   "name":"Fishy",
   "resources":[
     {"id":{"name":"level1","path":"fonts/level1/level1.yy",},},
+    {"id":{"name":"gameManager","path":"objects/gameManager/gameManager.yy",},},
     {"id":{"name":"oGem","path":"objects/oGem/oGem.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oRockWall","path":"objects/oRockWall/oRockWall.yy",},},
