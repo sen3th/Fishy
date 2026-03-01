@@ -1,3 +1,3 @@
 # Fishy
 
-Charlie was separated from his family while they were out of the anemone. While he was looking for food, a group of hungry sharks tried to eat them. The family got back to the anemone safely, but unfortunately, Charlie didn’t make it home. Now he’s being hunted by the terrifying to the depths of the sea. Then he found the gems. Oh his precious gems. Now he chases the gems for eternity till he meets the relieving death, where he could escape the misery. Or could he? 
+Charlie was separated from his family while they were out of the anemone. While he was looking for food, a group of hungry sharks tried to eat them. The family got back to the anemone safely, but unfortunately, Charlie didn’t make it home. Now he’s being hunted by the terrifying to the depths of the sea. Then he found the gems. Oh his precious gems. Now he chases the gems for eternity till he meets the relieving death, where he can escape the misery. Or could he? 
