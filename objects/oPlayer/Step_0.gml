@@ -38,5 +38,5 @@ if (place_meeting(x, y, oGem)) {
 
 
 if (place_meeting(x, y, oShark)) {
-    room_restart();
+    room_goto(Room1);
 }
