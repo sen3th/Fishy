@@ -29,9 +29,11 @@
     {"id":{"name":"oRockWall","path":"objects/oRockWall/oRockWall.yy",},},
     {"id":{"name":"oShark","path":"objects/oShark/oShark.yy",},},
     {"id":{"name":"oSolids","path":"objects/oSolids/oSolids.yy",},},
+    {"id":{"name":"endRoom","path":"rooms/endRoom/endRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"startRoom","path":"rooms/startRoom/startRoom.yy",},},
     {"id":{"name":"sGem","path":"sprites/sGem/sGem.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sRockWall","path":"sprites/sRockWall/sRockWall.yy",},},
@@ -40,9 +42,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"startRoom","path":"rooms/startRoom/startRoom.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"endRoom","path":"rooms/endRoom/endRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

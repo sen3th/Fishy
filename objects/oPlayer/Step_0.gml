@@ -26,8 +26,14 @@ if (place_meeting(x, y, oGem)) {
     gems_collected++;
     
     if (gems_collected == gems_needed) {
+    if (room == endRoom) {
+        room_goto(startRoom);
+    } else if (room == Room3) {
+        room_goto(endRoom);
+    } else {
         room_goto_next();
     }
+}
 }
 
 
