@@ -5,4 +5,4 @@ Charlie was separated from his family while they were out of the anemone. While 
 Install Gamemaker Studio and open the project file `Fishy.yyp` in the root of the repository.
 
 ## ---
-This game uses assets from [Fish-Pack](https://agdawkwardgamedev.itch.io/free-fish-assets), [Rocks and Gems](https://alifdoll.itch.io/rocks-and-gems), [Rocks and Minerals](https://redonegamesstudio.itch.io/rockandminerals) and [Shark-Sprites](https://sergeant-slash.itch.io/32x32-animated-shark-sprite)
+This game uses assets from [Fish-Pack](https://agdawkwardgamedev.itch.io/free-fish-assets), [Rocks and Gems](https://alifdoll.itch.io/rocks-and-gems), [Rocks and Minerals](https://redonegamesstudio.itch.io/rockandminerals), [Shark-Sprites](https://sergeant-slash.itch.io/32x32-animated-shark-sprite) and [HALFSTONE Sound Effects Pack Lite](https://void1gaming.itch.io/halftone-sound-effects-pack-lite).
