@@ -24,12 +24,14 @@ if (place_meeting(x, y, oGem)) {
         instance_destroy();
     }
     gems_collected++;
+	global.collect = audio_play_sound(collect, 0, false);
     
     if (gems_collected == gems_needed) {
     if (room == endRoom) {
         room_goto(startRoom);
     } else if (room == Room3) {
         room_goto(endRoom);
+		global.collect = audio_play_sound(win, 0, false);
     } else {
         room_goto_next();
     }
@@ -39,4 +41,5 @@ if (place_meeting(x, y, oGem)) {
 
 if (place_meeting(x, y, oShark)) {
     room_goto(Room1);
+    global.collect = audio_play_sound(impact, 0, false);
 }
